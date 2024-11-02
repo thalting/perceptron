@@ -1,0 +1,3 @@
+# Perceptron
+
+![out](./out.gif)
